@@ -1,7 +1,7 @@
 {
   "name": "post_html2mongodb",
   "version": "1.0.0",
-  "description": "this small project is just for learning how to post from HTML to a MongoDB Atlas",
+  "description": "This small project is just for learning how to post from HTML to a MongoDB Atlas",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
